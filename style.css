@@ -1,0 +1,18 @@
+h1 {
+    background-color: rgb(166, 71, 255);
+    color: rgb(0, 255, 21)
+}
+h3 {
+    background-color: rgb(124, 0, 128);
+    color:rgb(238, 166, 144);
+}
+h4 {
+    color:slateblue;
+}
+button {
+    margin: 15px;
+    color:black;
+    padding: 6px 12px;
+    background-image: linear-gradient(orange, green);
+    border: 5px solid yellow;
+    border-radius: 5px;
